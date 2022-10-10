@@ -4,7 +4,7 @@
 |:---:|:---:|:---:|:---:|
 | [kubespray](https://github.com/kubernetes-sigs/kubespray/releases) | 2.18 | - | - |
 | [cert-manager](https://cert-manager.io/docs/installation/supported-releases/) | 1.7, 1.8 | 1.7, 1.8 | 1.8 |
-| [ingress-nginx](https://github.com/kubernetes/ingress-nginx#support-versions-table) | 1.1.1 - 1.2 | 1.1.1 - 1.2 | - |
+| [ingress-nginx](https://github.com/kubernetes/ingress-nginx#support-versions-table) | 1.1.1 - 1.2 | 1.1.1 - 1.2 | 1.3-1.4 |
 | [rook-ceph](https://rook.github.io/docs/rook/v1.9/ceph-upgrade.html) | 1.8, 1.9 | 1.8, 1.9 | 1.8, 1.9 |
 | [topolvm (helm)](https://github.com/topolvm/topolvm/tree/main/charts/topolvm) | + | + | - |
 | [prometheus stack (helm)](https://github.com/prometheus-community/helm-charts/blob/main/charts/kube-prometheus-stack/README.md#upgrading-chart) | + | + | + |
