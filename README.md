@@ -8,6 +8,6 @@
 | [rook-ceph](https://rook.github.io/docs/rook/v1.9/ceph-upgrade.html) | 1.8, 1.9 | 1.8, 1.9 | 1.8, 1.9 |
 | [topolvm](https://github.com/topolvm/topolvm#supported-environments) [helm](https://github.com/topolvm/topolvm/tree/main/charts/topolvm) | + | + | - |
 | [prometheus stack (helm)](https://github.com/prometheus-community/helm-charts/blob/main/charts/kube-prometheus-stack/README.md#upgrading-chart) | + | + | + |
-| [kured](https://github.com/weaveworks/kured#kubernetes--os-compatibility) | 1.9.* | 1.9.* | main |
+| [kured](https://github.com/weaveworks/kured#kubernetes--os-compatibility) | 1.9.* | 1.9.* | 1.10.* |
 | [ingress monitor controller](https://github.com/pavel1337/IngressMonitorController/tree/support-k8s-1.22) | + | ? | ? |
 | [rabbit mq operator](https://github.com/rabbitmq/cluster-operator#supported-versions) | from v1.12.1 | ? | ? |
