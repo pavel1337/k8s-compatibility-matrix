@@ -11,5 +11,6 @@
 | [kured](https://kured.dev/docs/installation/#kubernetes--os-compatibility) | 1.17.0 | ?
 | [ingress monitor controller](https://github.com/pavel1337/IngressMonitorController/tree/support-k8s-1.22) | ? | ?
 | [moco mysql](https://github.com/cybozu-go/moco?tab=readme-ov-file#supported-software) | 0.25.1 | ?
+| [zalando postgres](https://github.com/zalando/postgres-operator?tab=readme-ov-file#supported-postgres--k8s-versions) | v1.14.0 | v1.14.0
 
 * refers to default **version**
